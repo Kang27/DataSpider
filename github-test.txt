@@ -1,1 +1,3 @@
 The file name is github-test.txt.
+The secend line is a pull test.
+第三行也是从远程仓库下载至本地仓库测试.
